@@ -19,7 +19,7 @@ SRC = {
     "espetos": ROOT / "Screenshot 2026-10-28 140350.png",
     "carnes": ROOT / "Screenshot 2026-10-28 140402.png",
     "cortes": ROOT / "Screenshot 2026-10-28 141359.png",
-    "burger": ROOT / "Kit hamburguer.png",
+    "churrasco": ROOT / "churrasco.png",
     "bar": ROOT / "bar.png",
     "almoco": ROOT / "almoço.png",
     "campari": ROOT / "Bar campari.png",
@@ -35,7 +35,7 @@ CROPS = {
     "card-bar": ("bar", None, [420, 677]),
     "bar-campari": ("campari", None, [400, 679]),
     "restaurante-almoco": ("almoco", (0, 24, 686, 681), [560, 686]),
-    "churrasco-brasa": ("burger", (0, 575, 1024, 1260), [800, 1400]),
+    "churrasco-brasa": ("churrasco", (0, 0, 864, 438), [800, 1400]),  # corta o logo impresso na base da foto
     # textura de mármore preto retirada das próprias artes da marca
     "textura-marmore": ("carnes", (420, 480, 851, 650), [900]),
 }
